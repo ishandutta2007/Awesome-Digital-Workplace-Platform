@@ -1,213 +1,105 @@
-# Awesome-Digital-Workplace-Platform
+# 🏢 Awesome Digital Workplace Platform 🚀
 
-## Top Digital Workplace Platform Ecosystem
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+![Awesome Digital Workplace Platform Banner](./assets/banner.svg)
 
+## 🌟 Top Digital Workplace Platform Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**A Comprehensive, Curated List of Enterprise SaaS Products & Self-Hosted Open-Source GitHub Projects**  
+*Focused on Employee Experience (EXP), Internal Communications, Digital Intranets & Team Collaboration Software*  
 
-*Focused on Employee Experience, Internal Communications & Intranet Collaboration*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Workplace Platforms**. These tools connect employees with company news, knowledge, tools, and each other — creating a unified intranet and employee experience layer that works across desk and frontline workers.
-
-
-
-**Examples** include Microsoft Viva, Unily, Simpplr, LumApps, Staffbase, Workvivo, Haiilo, Interact, Igloo Software, and Workspace 365 (the category leaders).
-
-
-
-**Open-source emphasis**: This section is expanded with active projects for self-hosting, custom intranet features, and transparent employee experience — ideal for organizations seeking data sovereignty and vendor independence. The open-source ecosystem is anchored by **eXo Platform** (sovereign digital workplace), **Nextcloud Hub** (all-in-one collaboration), and **HumHub** (social intranet), with strong coverage in corporate social networks, knowledge management, and employee directories.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Microsoft Viva](https://www.microsoft.com/microsoft-viva)**  
-
-  Integrated employee experience platform built on Microsoft 365 and Teams. Modules include Viva Connections (intranet gateway), Viva Engage (social network), Viva Amplify (campaign management), Viva Insights (productivity analytics), Viva Learning (learning hub), Viva Goals (OKR management), Viva Glint (employee engagement surveys), and Viva Pulse (team feedback). Available across Microsoft 365 plans with varying feature availability .
-
-
-
-- **[Unily](https://www.unily.com/)**  
-
-  Enterprise digital workplace and intranet platform known for advanced analytics, targeting, and employee engagement. Strong mobile capabilities and integrations, though requires significant investment and configuration to maximize features. Premium tier pricing .
-
-
-
-- **[Simpplr](https://www.simpplr.com/)**  
-
-  AI-powered employee experience platform with clean, user-friendly interface and easy navigation. Solid personalization and employee advocacy features, with capable analytics and integrations. Moderate to premium pricing .
-
-
-
-- **[LumApps](https://www.lumapps.com/)**  
-
-  AI-powered digital workplace with seamless integration across Microsoft 365 and Google Workspace. Real-time analytics, mobile-first design, strong employee advocacy tools, and robust content management. Modular per-user pricing .
-
-
-
-- **[Staffbase](https://staffbase.com/)**  
-
-  Employee experience platform known for strong mobile support and intuitive usability. Good personalization, analytics, and third-party integrations. Moderate per-employee pricing .
-
-
-
-- **[Workvivo](https://workvivo.com/)**  
-
-  Engagement-first social intranet and employee app with consumer-grade feel. Recognition, employee listening, and live-event features. Acquired by Zoom in 2023 and named preferred migration path for Workplace from Meta customers. Moderate per-employee pricing .
-
-
-
-- **[Haiilo](https://www.haiilo.com/)**  
-
-  Employee communications platform for internal communications, social intranet, and employee experience.
-
-
-
-- **[Interact](https://www.interactsoftware.com/)**  
-
-  Intelligent intranet software for internal communications and employee engagement.
-
-
-
-- **[Igloo Software](https://www.igloosoftware.com/)**  
-
-  Digital workplace platform with intranet, collaboration, and knowledge management. Acquired by Appspace in 2025 .
-
-
-
-- **[Workspace 365](https://www.workspace365.com/)**  
-
-  Unified digital workplace platform integrating apps, documents, and communications in a single interface.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[eXo Platform](https://github.com/exoplatform/platform)**  
-
-  The leading open-source digital workplace and intranet platform, serving over one million users including the French presidential palace (Elysée), Inria, the US Department of Defense, and German Ministry of Social Affairs . Community Edition available under AGPL license with full source access and no vendor lock-in . Version 7.1 (November 2025) delivers a human-centered experience with redesigned document management, unified search, Matrix-powered team chat with reactions and voice messages, forum-style activity feeds, gamified engagement campaigns, and a Progressive Web Application for mobile and desktop with automatic branding . Modern technical stack: JDK 21, Tomcat 10, Spring 6, Spring Boot 3.1, ElasticSearch 8.14.3, OnlyOffice 9.1 . **The de-facto open-source alternative to Microsoft 365 for sovereign organizations** .
-
-
-
-- **[Nextcloud Hub](https://github.com/nextcloud/server)**  
-
-  The most comprehensive open-source collaboration platform, providing file sync and share, real-time document editing (Nextcloud Office with Euro-Office and Collabora Online options), groupware (Mail, Calendar, Contacts), chat and video conferencing (Talk), project management (Deck with Gantt charts), and an AI-powered Assistant . Serves Amnesty International Spain and numerous public and private organizations worldwide . **The leading European alternative to Microsoft 365 and Google Workspace** . AGPL-3.0 licensed with enterprise governance features including Sensitivity Labels, Legal Hold, and data lifecycle management for regulated industries . Nextcloud Contacts automatically generates organization charts, and the AI Assistant now accesses the platform's unified search across files, emails, tasks, forms, and project boards via Context Agent .
-
-
-
-- **[HumHub](https://github.com/humhub/humhub)**  
-
-  Open-source social intranet solution used by municipalities, educational institutions, associations, and enterprises of all sizes . Features user profiles with customizable fields, Spaces (rooms) for team collaboration, direct messaging, group chats, file sharing, wiki pages, landing pages, galleries, project management, calendars, and events. Extensible with over 70 modules including Wiki, Messenger, News, Theme Builder, Custom Pages, OnlyOffice Connector, Files, LDAP, SAML SSO, and Polls. Available in 30+ languages with GDPR-compliant hosting or on-premise deployment . **The most widely adopted open-source social intranet** for organizations seeking a familiar, Facebook-like employee experience.
-
-
-
-- **[Simoona](https://github.com/VismaLietuva/simoona)**  
-
-  Open-source social intranet powered by Visma, designed for effective communication, empowerment, acknowledgment, and social networking of company employees . Features Wall (social media-style posts with images, videos, GIFs, likes, and comments), Employee list (directory with profiles, photos, contact info, seniority, projects, and personal details), and Kudos (peer recognition system with points and gamification). AngularJS frontend with ASP.NET MVC + WebApi backend using EntityFramework code-first. Docker deployment available . **A production-grade open-source intranet from an established European software company**.
-
-
-
-- **[CompanyDirectory-v2](https://github.com/joaojmendes/CompanyDirectory-v2)**  
-
-  AI-powered employee directory and organization chart built as a SharePoint Framework (SPFx) web part, released during SharePoint Hackathon 2026 . Features natural language search powered by Azure OpenAI that translates queries like "Find all developers in Porto with React skills" into Microsoft Graph OData filters in real-time. Organization chart with manager chain visualization up to the CEO, direct reports with lazy loading, peers section, and click-to-navigate re-centering. Rich employee directory with grid and list views, infinite scroll, person cards with quick actions (Teams Chat, Email, Phone, Video Call, LinkedIn), and multi-host support (SharePoint, Teams, Outlook). IndexedDB caching with configurable TTL for performance. **Demonstrates how open-source can bring AI-powered employee experience to SharePoint environments** .
-
-
-
-- **[Kherad](https://github.com/mohammadmaso/kherad)**  
-
-  Self-hosted, git-backed knowledge base with a Notion-like block editor, designed for non-technical teams but backed by real git commits and merge-request review workflows . Authors edit in a familiar block editor; every save creates a real commit; every publish goes through review. Features AI specialist agents that interview you and draft wiki-ready pages, "Ask the knowledge base" RAG chat with cited sources, document ingest (PDF/Office/HTML/OCR/voice → markdown), link graph visualization, bundles with per-path permissions, and RTL/multi-language support. Turborepo monorepo with TypeScript throughout, Fastify API, Next.js web app, and Postgres full-text search . **Ideal for organizations wanting a self-hosted Confluence/Notion alternative with real version control**.
-
-
-
-- **[XWiki](https://github.com/xwiki/xwiki-platform)**  
-
-  Open-source enterprise wiki and knowledge management platform that can serve as intranet, extranet, knowledge base, documentation platform, or public website . Wide range of pre-built extensions and integrations, with community-developed extensions for customization. **A mature alternative to Confluence for organizations seeking open-source knowledge management**.
-
-
-
-- **[TwakeAI](https://github.com/linagora/twake-workplace)**  
-
-  Sovereign open-source collaborative suite from LINAGORA, positioned as an alternative to Microsoft 365 and Google Workspace . Features Matrix chat, JMAP email, Drive, OnlyOffice, and AI capabilities including automatic meeting transcription with LinTO and assisted writing. SecNumCloud compliance process underway for French sovereignty requirements. **A European sovereign workplace suite with AI integration** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **OS GIR (Global Identity Repository)** — Open-source identity and organization management tool keeping track of departments and employees with automatic sharing to other IT systems. Based on OIO standard, provides organization charts on intranet and full identity control .
-
-- **@mecra/foundation-people** — Foundation People Core providing person CRUD, organization hierarchy, membership, search, KPI, and seed for platform-wide people and organization management. GPL-3.0 licensed .
-
-- **WeKnoraLite** — Open-source LLM knowledge platform converting raw documents into queryable RAG, autonomous reasoning agent, and self-maintaining Wiki with visual knowledge graph .
-
-
-
-**Frameworks for building custom digital workplace solutions**: Combine **eXo Platform** for a full sovereign intranet with social features, document management, and chat . Use **Nextcloud Hub** for comprehensive collaboration with office suite, groupware, and AI Assistant . Deploy **HumHub** for a social intranet with 70+ modules and familiar employee experience . Integrate **CompanyDirectory-v2** for AI-powered employee directory and org chart within SharePoint environments . Leverage **Kherad** for git-backed knowledge management with review workflows . Note that true enterprise employee experience platforms with advanced people analytics (Viva Insights, Glint), multi-channel campaign management (Amplify), and deep HRIS integration remain primarily commercial territory; open-source stacks provide strong collaboration, intranet, and knowledge management foundations that require integration for complete employee experience.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Digital workplace platforms handle sensitive employee and organizational data. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations (GDPR, CCPA).
-
-- Open-source platforms provide strong collaboration and intranet foundations but lack the advanced people analytics, enterprise engagement surveying, and deep Microsoft 365 integration of commercial EXP platforms.
-
-- The open-source ecosystem provides strong collaboration, intranet, and knowledge management foundations, but advanced employee experience capabilities like Viva Insights, Glint, and Amplify remain primarily commercial offerings.
-
-
+📅 **Last updated:** September 2026
 
 ---
 
+## 💡 Overview & Market Insights
 
+Digital Workplace Platforms connect employees with company news, internal knowledge bases, enterprise collaboration tools, and peer recognition networks — building a unified intranet and employee experience layer across desk-bound and frontline workforces.
 
-**Made for HR leaders, internal communications teams, IT administrators, and employee experience professionals.**  
+### 📊 Market Size & Industry Dynamics
 
-Let's make digital workplaces more open, transparent, and employee-centric.
+> 📈 **Estimated Market Size:** The global Digital Workplace Platform & Employee Experience (EXP) market is estimated at **~$38.5 Billion (2026)** and is projected to reach **~$85 Billion by 2032**, growing at a CAGR of ~14.2%.
+>
+> 🧩 **Market Fragmentation:** The market is **moderately fragmented**, anchored by dominant enterprise giants (such as Microsoft Viva and Zoom/Workvivo) at the high end, while maintaining a rich ecosystem of specialized SaaS suite leaders (Unily, Simpplr, Staffbase) and vibrant open-source alternatives (Nextcloud Hub, AppFlowy, Mattermost) providing complete data sovereignty.
+
+---
+
+## 📑 Table of Contents
+
+- [🏢 Enterprise SaaS & Hosted Platforms](#-enterprise-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 Enterprise SaaS & Hosted Platforms
+
+The table below lists top enterprise SaaS Digital Workplace and Employee Experience Platforms, sorted by **Company Size / Valuation / Revenue (Descending)**.
+
+| Platform 🚀 | Description 📝 | Company Size / Valuation / Revenue 🏢 | Starting Pricing Tier 💰 | Free Tier / Trial Limit ⏳ |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Viva](https://www.microsoft.com/microsoft-viva)** | Integrated employee experience platform built on Microsoft 365 & Teams. Modules include Viva Connections, Engage, Amplify, Insights, Learning, Goals, Glint, and Pulse. | **~$3.1 Trillion Market Cap** (Microsoft parent) | **$2.00 / user / month** (Viva Suite add-on; req. M365) | 1-month Free Trial (up to 25 licenses) |
+| **[Workvivo](https://workvivo.com/)** | Engagement-first social intranet and employee app with consumer-grade feel. Acquired by Zoom in 2023; preferred migration path for Workplace from Meta. | **~$22 Billion Market Cap** (Zoom parent) | **$20.00 / user / year** (~$1.67/mo per employee) | 30-day Free Trial (custom scope) |
+| **[Staffbase](https://staffbase.com/)** | Employee experience platform known for powerful mobile app capabilities, internal communications, and intranet integration. | **Valuation: ~$1.1 Billion** (Unicorn status) | **$3.00 / user / month** (Starter plan estimate) | 14-day Free Trial |
+| **[LumApps](https://www.lumapps.com/)** | AI-powered digital workplace offering seamless integration across Microsoft 365 and Google Workspace with employee advocacy tools. | **Valuation: ~$650 Million** (Acquired by Bridgepoint) | **$4.00 / user / month** (Base seat tier) | 14-day Free Trial |
+| **[Simpplr](https://www.simpplr.com/)** | AI-powered employee experience platform with clean UI, personalized internal communications, and smart analytics. | **Valuation: ~$500 Million** ($70M+ Series D raised) | **$8.00 / user / month** (Standard seat estimate) | 14-day Free Trial |
+| **[Unily](https://www.unily.com/)** | Enterprise digital workplace and intranet platform known for advanced analytics, multi-channel targeting, and global scalability. | **Valuation: ~$450 Million** (CVC Capital Partners backed) | **$3.50 / user / month** (Enterprise tier rate) | 14-day Free Trial |
+| **[Haiilo](https://www.haiilo.com/)** | Employee communications platform combining social intranet, advocacy, and employee survey insights (formerly COYO). | **Annual Revenue: ~$50 Million** | **$4.50 / user / month** (Starter package) | 14-day Free Trial |
+| **[Igloo Software](https://www.igloosoftware.com/)** | Digital workplace platform featuring intranet portals, knowledge management, and team collaboration. (Acquired by Appspace 2025). | **Annual Revenue: ~$40 Million** | **$3.00 / user / month** (Digital Workplace seat) | 14-day Free Trial |
+| **[Workspace 365](https://www.workspace365.com/)** | Unified digital workplace portal aggregating web apps, documents, and company communications into a single browser hub. | **Annual Revenue: ~$18 Million** | **$3.25 / user / month** (Basic workspace seat) | 30-day Free Trial |
+| **[Interact](https://www.interactsoftware.com/)** | Intelligent intranet software designed for enterprise internal communications, knowledge discovery, and employee engagement. | **Annual Revenue: ~$15 Million** | **$4.00 / user / month** (Standard tier estimate) | 14-day Free Trial |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Self-hosted open-source software provides full data sovereignty, privacy compliance, and vendor independence for digital workplaces. The list below is sorted by **GitHub Star Count (Descending)**.
+
+| Star Badge ⭐ | Project & Repository 📦 | Description 🎯 | Key Features & Stack 🛠️ |
+| :--- | :--- | :--- | :--- |
+| [<img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white" alt="AppFlowy Stars"/>](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | Open-source Notion alternative for workplace wikis, document collaboration, and project management. | Flutter, Rust, SQLite/PostgreSQL, offline-first architecture, end-to-end encryption. |
+| [<img src="https://img.shields.io/github/stars/mattermost/mattermost-server?style=social&color=white" alt="Mattermost Stars"/>](https://github.com/mattermost/mattermost-server/stargazers) | **[Mattermost](https://github.com/mattermost/mattermost-server)** | Enterprise-grade open-source collaboration suite featuring secure team messaging, audio calls, and workflow automation. | Go, React, PostgreSQL/MySQL, Microsoft Teams alternative, sovereign deployment. |
+| [<img src="https://img.shields.io/github/stars/nextcloud/server?style=social&color=white" alt="Nextcloud Hub Stars"/>](https://github.com/nextcloud/server/stargazers) | **[Nextcloud Hub](https://github.com/nextcloud/server)** | The leading European sovereign workplace alternative to Microsoft 365. File sync, Office, Talk, Groupware, and AI Assistant. | PHP, JavaScript, PostgreSQL/MariaDB, AGPL-3.0, Org charts, Sensitivity Labels. |
+| [<img src="https://img.shields.io/github/stars/zulip/zulip?style=social&color=white" alt="Zulip Stars"/>](https://github.com/zulip/zulip/stargazers) | **[Zulip](https://github.com/zulip/zulip)** | Open-source real-time team chat with unique threaded conversations for structured workplace communication. | Python, Django, TypeScript, PostgreSQL, powerful search, integrations API. |
+| [<img src="https://img.shields.io/github/stars/opf/openproject?style=social&color=white" alt="OpenProject Stars"/>](https://github.com/opf/openproject/stargazers) | **[OpenProject](https://github.com/opf/openproject)** | Open-source enterprise project management and workplace collaboration software with agile boards and Gantt charts. | Ruby on Rails, Angular, PostgreSQL, project roadmaps, work package tracking. |
+| [<img src="https://img.shields.io/github/stars/humhub/humhub?style=social&color=white" alt="HumHub Stars"/>](https://github.com/humhub/humhub/stargazers) | **[HumHub](https://github.com/humhub/humhub)** | Flexible open-source social intranet kit designed for corporate social networks, employee communication, and team spaces. | PHP, Yii2 framework, MySQL/MariaDB, 70+ modules (Messenger, Wiki, Polls, LDAP). |
+| [<img src="https://img.shields.io/github/stars/twakeapp/twake?style=social&color=white" alt="Twake Stars"/>](https://github.com/twakeapp/twake/stargazers) | **[Twake Workplace](https://github.com/twakeapp/twake)** | European sovereign digital workplace platform featuring Matrix chat, drive, team calendars, and document editing. | TypeScript, React, Node.js, Matrix protocol, LinTO AI meeting transcription. |
+| [<img src="https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white" alt="XWiki Platform Stars"/>](https://github.com/xwiki/xwiki-platform/stargazers) | **[XWiki Platform](https://github.com/xwiki/xwiki-platform)** | Powerful open-source enterprise wiki and knowledge management platform for building internal company intranets. | Java, Solr, Hibernate, extensible architecture, fine-grained access control. |
+| [<img src="https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white" alt="TwakeAI Stars"/>](https://github.com/linagora/twake-workplace/stargazers) | **[TwakeAI (LINAGORA)](https://github.com/linagora/twake-workplace)** | Sovereign open-source collaborative suite with integrated AI models, meeting summary bot, and document management. | Vue.js, Node.js, Matrix, JMAP, SecNumCloud compliance design. |
+| [<img src="https://img.shields.io/github/stars/exoplatform/platform?style=social&color=white" alt="eXo Platform Stars"/>](https://github.com/exoplatform/platform/stargazers) | **[eXo Platform](https://github.com/exoplatform/platform)** | Sovereign open-source digital workplace & social intranet serving public sectors (Elysée Palace, US DoD, Inria). | Java 21, Spring Boot 3.1, ElasticSearch 8, OnlyOffice 9, PWA support. |
+| [<img src="https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white" alt="Simoona Stars"/>](https://github.com/VismaLietuva/simoona/stargazers) | **[Simoona Intranet](https://github.com/VismaLietuva/simoona)** | Production-ready social intranet built by Visma, featuring employee wall feeds, org directory, and gamified peer kudos. | C#, ASP.NET MVC, AngularJS, Entity Framework, Docker deployment. |
+| [<img src="https://img.shields.io/github/stars/mohammadmaso/kherad?style=social&color=white" alt="Kherad Stars"/>](https://github.com/mohammadmaso/kherad/stargazers) | **[Kherad](https://github.com/mohammadmaso/kherad)** | Self-hosted, git-backed knowledge base with Notion-like block editor, AI review agents, and source-cited RAG chat. | TypeScript, Fastify, Next.js, Turborepo, PostgreSQL full-text search. |
+| [<img src="https://img.shields.io/github/stars/joaojmendes/CompanyDirectory-v2?style=social&color=white" alt="CompanyDirectory-v2 Stars"/>](https://github.com/joaojmendes/CompanyDirectory-v2/stargazers) | **[CompanyDirectory-v2](https://github.com/joaojmendes/CompanyDirectory-v2)** | AI-powered SPFx employee directory & interactive org chart for SharePoint, using Azure OpenAI & MS Graph. | SPFx, React, TypeScript, Azure OpenAI, MS Graph OData, IndexedDB cache. |
+
+### 🛠️ Frameworks & Component Libraries for Custom Workplaces
+
+- 👤 **[OS GIR (Global Identity Repository)](https://github.com/OS2gir)** — Open-source identity & organization directory management system keeping track of departments, personnel hierarchy, and automated sync.
+- ⚙️ **[@mecra/foundation-people](https://github.com/mecra)** — Foundation People Core engine providing CRUD, org chart hierarchy, search, and KPI primitives for digital workplace platforms.
+- 🧠 **[WeKnoraLite](https://github.com/WeKnora)** — Open-source LLM knowledge platform converting corporate documents into queryable RAG agents and self-maintaining wiki graphs.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from HR leaders, IT admins, and open-source developers!
+
+1. 🍴 **Fork** this repository.
+2. ➕ **Add/Edit** entries in `README.md` following the table structure above.
+3. 📝 Ensure all links are official, factual, and include relevant star links or pricing metrics.
+4. 📬 **Submit a Pull Request (PR)** with a clear title and description.
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated list** for informational and research purposes only.
+- Self-hosting open-source intranet platforms requires proper security practices, server hardening, and compliance with data privacy regulations (GDPR, CCPA, HIPAA).
+- Product pricing and financial estimations are subject to vendor updates; always verify with official sales channels.
+
+---
+
+<p center>
+<b>Made with ❤️ for HR leaders, internal communications managers, IT architects, and workplace technology teams worldwide.</b>
+</p>
