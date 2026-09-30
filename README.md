@@ -57,9 +57,9 @@ The table below lists top enterprise SaaS Digital Workplace and Employee Experie
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted open-source software provides full data sovereignty, privacy compliance, and vendor independence for digital workplaces. The list below is sorted by **GitHub Star Count (Descending)**.
+Self-hosted open-source software provides full data sovereignty, privacy compliance, and vendor independence for digital workplaces. The list below is sorted by **GitHub Stars_Count (Descending)**.
 
-| Star Badge ⭐ | Project & Repository 📦 | Description 🎯 | Key Features & Stack 🛠️ |
+| Stars_Badge ⭐ | Project & Repository 📦 | Description 🎯 | Key Features & Stack 🛠️ |
 | :--- | :--- | :--- | :--- |
 | [<img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white" alt="AppFlowy Stars"/>](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | Open-source Notion alternative for workplace wikis, document collaboration, and project management. | Flutter, Rust, SQLite/PostgreSQL, offline-first architecture, end-to-end encryption. |
 | [<img src="https://img.shields.io/github/stars/mattermost/mattermost-server?style=social&color=white" alt="Mattermost Stars"/>](https://github.com/mattermost/mattermost-server/stargazers) | **[Mattermost](https://github.com/mattermost/mattermost-server)** | Enterprise-grade open-source collaboration suite featuring secure team messaging, audio calls, and workflow automation. | Go, React, PostgreSQL/MySQL, Microsoft Teams alternative, sovereign deployment. |
@@ -123,3 +123,12 @@ Your support is deeply appreciated! 🙌
 <p align="center">
 <b>Made with ❤️ for HR leaders, internal communications managers, IT architects, and workplace technology teams worldwide.</b>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Digital-Workplace-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Digital-Workplace-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Digital-Workplace-Platform_growth.svg">
+  </picture>
+</a>
