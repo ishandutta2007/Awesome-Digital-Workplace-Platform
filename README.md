@@ -1,6 +1,6 @@
 # 🏢 Awesome Digital Workplace Platform 🚀
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ![Awesome Digital Workplace Platform Banner](./assets/banner.svg)
 
@@ -30,6 +30,8 @@ Digital Workplace Platforms connect employees with company news, internal knowle
 - [🏢 Enterprise SaaS & Hosted Platforms](#-enterprise-saas--hosted-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [❤️ Support & Sponsoring](#%EF%B8%8F-support--sponsoring)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -92,6 +94,24 @@ We welcome contributions from HR leaders, IT admins, and open-source developers!
 
 ---
 
+## ❤️ Support & Sponsoring
+
+Thank you for exploring and using **Awesome-Digital-Workplace-Platform**! If you find this curated list helpful for your organization, team, or personal research, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and share** it with fellow HR leaders, IT architects, and developers.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new list additions, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Workplace-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Workplace-Platform&type=date&legend=top-left)
+
+---
+
 ## ⚠️ Disclaimer
 
 - This repository is a **community-curated list** for informational and research purposes only.
@@ -100,6 +120,6 @@ We welcome contributions from HR leaders, IT admins, and open-source developers!
 
 ---
 
-<p center>
+<p align="center">
 <b>Made with ❤️ for HR leaders, internal communications managers, IT architects, and workplace technology teams worldwide.</b>
 </p>
